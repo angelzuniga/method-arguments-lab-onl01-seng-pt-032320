@@ -1,4 +1,4 @@
-def intro(name)
-  puts "Hola, #{name}!"
+def intro(nombre)
+  puts "Hola, #{nombre}!"
 end
 
