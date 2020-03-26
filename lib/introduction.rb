@@ -1,4 +1,4 @@
-def intoduction(name)
+def intro(name)
   puts "Hola, #{name}!"
 end
 
